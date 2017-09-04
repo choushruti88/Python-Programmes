@@ -24,3 +24,5 @@ print(num1 >= num3)
 
 print(num2 <= num3)
 
+
+
